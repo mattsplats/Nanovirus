@@ -1,0 +1,58 @@
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\Backups\XNA2DGame 0.0.6\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\images\player\player_anim.xnb
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\Backups\XNA2DGame 0.0.6\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\images\player\player_anim_left.xnb
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\Backups\XNA2DGame 0.0.6\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\images\player\player_idle.xnb
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\Backups\XNA2DGame 0.0.6\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\images\player\player_idle_left.xnb
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\Backups\XNA2DGame 0.0.6\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\images\backgrounds\trees.xnb
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\Backups\XNA2DGame 0.0.6\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\images\monsters\blob\blob_monster.xnb
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\Backups\XNA2DGame 0.0.6\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\images\backgrounds\reference_level_lower_left.xnb
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\Backups\XNA2DGame 0.0.6\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\images\backgrounds\reference_level_lower_mid.xnb
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\Backups\XNA2DGame 0.0.6\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\images\backgrounds\reference_level_lower_right.xnb
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\Backups\XNA2DGame 0.0.6\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\images\backgrounds\reference_level_step.xnb
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\Backups\XNA2DGame 0.0.6\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\images\backgrounds\reference_level_upper_left.xnb
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\Backups\XNA2DGame 0.0.6\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\images\backgrounds\reference_level_upper_mid.xnb
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\Backups\XNA2DGame 0.0.6\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\images\backgrounds\reference_level_upper_right.xnb
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\Backups\XNA2DGame 0.0.6\XNA2DGame\XNA2DGame\bin\x86\Debug\XNA2DGame.exe.manifest
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\Backups\XNA2DGame 0.0.6\XNA2DGame\XNA2DGame\bin\x86\Debug\XNA2DGame.application
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\Backups\XNA2DGame 0.0.6\XNA2DGame\XNA2DGame\bin\x86\Debug\XNA2DGame.exe
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\Backups\XNA2DGame 0.0.6\XNA2DGame\XNA2DGame\bin\x86\Debug\XNA2DGame.pdb
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\Backups\XNA2DGame 0.0.6\XNA2DGame\XNA2DGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\Backups\XNA2DGame 0.0.6\XNA2DGame\XNA2DGame\obj\x86\Debug\XNA2DGame.exe.manifest
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\Backups\XNA2DGame 0.0.6\XNA2DGame\XNA2DGame\obj\x86\Debug\XNA2DGame.application
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\Backups\XNA2DGame 0.0.6\XNA2DGame\XNA2DGame\obj\x86\Debug\XNA2DGame.exe
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\Backups\XNA2DGame 0.0.6\XNA2DGame\XNA2DGame\obj\x86\Debug\XNA2DGame.pdb
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\Backups\XNA2DGame 0.0.6\XNA2DGame\XNA2DGame\obj\x86\Debug\XNA2DGame.csprojResolveAssemblyReference.cache
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\images\backgrounds\trees.xnb
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\images\monsters\blob\idle_left.xnb
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\images\monsters\blob\idle_right.xnb
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\images\monsters\blob\jump_left.xnb
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\images\monsters\blob\jump_right.xnb
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\images\monsters\reverse\idle_left.xnb
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\images\monsters\reverse\idle_right.xnb
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\images\monsters\reverse\walk_left.xnb
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\images\monsters\reverse\walk_right.xnb
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\images\player\player_idle_left.xnb
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\images\player\player_idle_right.xnb
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\images\player\player_jump_left.xnb
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\images\player\player_jump_right.xnb
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\images\player\player_walk_left.xnb
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\images\player\player_walk_right.xnb
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\images\projectiles\player\basic_projectile_left.xnb
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\images\projectiles\player\basic_projectile_right.xnb
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\images\backgrounds\reference_level_lower_left.xnb
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\images\backgrounds\reference_level_lower_mid.xnb
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\images\backgrounds\reference_level_lower_right.xnb
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\images\backgrounds\reference_level_step.xnb
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\images\backgrounds\reference_level_upper_left.xnb
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\images\backgrounds\reference_level_upper_mid.xnb
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\images\backgrounds\reference_level_upper_right.xnb
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\fonts\UI_font.xnb
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\XNA2DGame\XNA2DGame\XNA2DGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Nanovirus.exe.manifest
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Nanovirus.application
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Nanovirus.exe
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Nanovirus.pdb
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\XNA2DGame\XNA2DGame\XNA2DGame\obj\x86\Debug\XNA2DGame.csprojResolveAssemblyReference.cache
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\XNA2DGame\XNA2DGame\XNA2DGame\obj\x86\Debug\Nanovirus.exe.manifest
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\XNA2DGame\XNA2DGame\XNA2DGame\obj\x86\Debug\Nanovirus.application
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\XNA2DGame\XNA2DGame\XNA2DGame\obj\x86\Debug\Nanovirus.exe
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\XNA2DGame\XNA2DGame\XNA2DGame\obj\x86\Debug\Nanovirus.pdb

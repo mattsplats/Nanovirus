@@ -1,0 +1,271 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>images\backgrounds\trees.png</Source>
+      <Name>images\backgrounds\trees</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Matt\Documents\Visual Studio 2012\Projects\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\images\backgrounds\trees.xnb</Output>
+      <Time>2013-07-01T00:55:39.9640952-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\monsters\blob\idle_left.PNG</Source>
+      <Name>images\monsters\blob\idle_left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Matt\Documents\Visual Studio 2012\Projects\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\images\monsters\blob\idle_left.xnb</Output>
+      <Time>2013-08-03T20:53:32.8572727-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\monsters\blob\idle_right.PNG</Source>
+      <Name>images\monsters\blob\idle_right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Matt\Documents\Visual Studio 2012\Projects\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\images\monsters\blob\idle_right.xnb</Output>
+      <Time>2013-08-03T20:53:37.7299776-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\monsters\blob\jump_left.PNG</Source>
+      <Name>images\monsters\blob\jump_left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Matt\Documents\Visual Studio 2012\Projects\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\images\monsters\blob\jump_left.xnb</Output>
+      <Time>2013-08-03T20:53:47.97756-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\monsters\blob\jump_right.PNG</Source>
+      <Name>images\monsters\blob\jump_right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Matt\Documents\Visual Studio 2012\Projects\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\images\monsters\blob\jump_right.xnb</Output>
+      <Time>2013-08-03T20:53:52.7812279-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\monsters\reverse\idle_left.png</Source>
+      <Name>images\monsters\reverse\idle_left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Matt\Documents\Visual Studio 2012\Projects\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\images\monsters\reverse\idle_left.xnb</Output>
+      <Time>2013-07-15T22:39:00.056586-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\monsters\reverse\idle_right.png</Source>
+      <Name>images\monsters\reverse\idle_right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Matt\Documents\Visual Studio 2012\Projects\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\images\monsters\reverse\idle_right.xnb</Output>
+      <Time>2013-07-15T22:39:45.0418568-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\monsters\reverse\walk_left.png</Source>
+      <Name>images\monsters\reverse\walk_left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Matt\Documents\Visual Studio 2012\Projects\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\images\monsters\reverse\walk_left.xnb</Output>
+      <Time>2013-08-05T00:25:21.6265253-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\monsters\reverse\walk_right.png</Source>
+      <Name>images\monsters\reverse\walk_right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Matt\Documents\Visual Studio 2012\Projects\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\images\monsters\reverse\walk_right.xnb</Output>
+      <Time>2013-08-05T00:25:16.147115-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\player\player_idle_left.png</Source>
+      <Name>images\player\player_idle_left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Matt\Documents\Visual Studio 2012\Projects\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\images\player\player_idle_left.xnb</Output>
+      <Time>2013-07-22T21:01:50.4364333-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\player\player_idle_right.png</Source>
+      <Name>images\player\player_idle_right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Matt\Documents\Visual Studio 2012\Projects\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\images\player\player_idle_right.xnb</Output>
+      <Time>2013-07-22T21:01:54.6681836-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\player\player_jump_left.png</Source>
+      <Name>images\player\player_jump_left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Matt\Documents\Visual Studio 2012\Projects\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\images\player\player_jump_left.xnb</Output>
+      <Time>2013-07-29T20:18:34.8717308-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\player\player_jump_right.png</Source>
+      <Name>images\player\player_jump_right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Matt\Documents\Visual Studio 2012\Projects\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\images\player\player_jump_right.xnb</Output>
+      <Time>2013-07-29T20:18:29.0115574-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\player\player_walk_left.png</Source>
+      <Name>images\player\player_walk_left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Matt\Documents\Visual Studio 2012\Projects\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\images\player\player_walk_left.xnb</Output>
+      <Time>2013-07-21T15:44:57.7570618-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\player\player_walk_right.png</Source>
+      <Name>images\player\player_walk_right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Matt\Documents\Visual Studio 2012\Projects\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\images\player\player_walk_right.xnb</Output>
+      <Time>2013-07-21T15:44:51.6914991-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\projectiles\player\basic_projectile_left.png</Source>
+      <Name>images\projectiles\player\basic_projectile_left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Matt\Documents\Visual Studio 2012\Projects\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\images\projectiles\player\basic_projectile_left.xnb</Output>
+      <Time>2013-07-21T18:30:32.9649775-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\projectiles\player\basic_projectile_right.png</Source>
+      <Name>images\projectiles\player\basic_projectile_right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Matt\Documents\Visual Studio 2012\Projects\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\images\projectiles\player\basic_projectile_right.xnb</Output>
+      <Time>2013-07-21T18:30:32.8705774-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\backgrounds\reference_level_lower_left.png</Source>
+      <Name>images\backgrounds\reference_level_lower_left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Matt\Documents\Visual Studio 2012\Projects\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\images\backgrounds\reference_level_lower_left.xnb</Output>
+      <Time>2013-07-01T00:55:39.9610925-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\backgrounds\reference_level_lower_mid.png</Source>
+      <Name>images\backgrounds\reference_level_lower_mid</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Matt\Documents\Visual Studio 2012\Projects\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\images\backgrounds\reference_level_lower_mid.xnb</Output>
+      <Time>2013-07-01T00:55:39.9620936-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\backgrounds\reference_level_lower_right.png</Source>
+      <Name>images\backgrounds\reference_level_lower_right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Matt\Documents\Visual Studio 2012\Projects\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\images\backgrounds\reference_level_lower_right.xnb</Output>
+      <Time>2013-07-01T00:55:39.9620936-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\backgrounds\reference_level_step.png</Source>
+      <Name>images\backgrounds\reference_level_step</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Matt\Documents\Visual Studio 2012\Projects\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\images\backgrounds\reference_level_step.xnb</Output>
+      <Time>2013-07-01T00:55:39.9630944-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\backgrounds\reference_level_upper_left.png</Source>
+      <Name>images\backgrounds\reference_level_upper_left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Matt\Documents\Visual Studio 2012\Projects\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\images\backgrounds\reference_level_upper_left.xnb</Output>
+      <Time>2013-07-01T00:55:39.9630944-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\backgrounds\reference_level_upper_mid.png</Source>
+      <Name>images\backgrounds\reference_level_upper_mid</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Matt\Documents\Visual Studio 2012\Projects\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\images\backgrounds\reference_level_upper_mid.xnb</Output>
+      <Time>2013-07-01T00:55:39.9630944-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\backgrounds\reference_level_upper_right.png</Source>
+      <Name>images\backgrounds\reference_level_upper_right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Matt\Documents\Visual Studio 2012\Projects\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\images\backgrounds\reference_level_upper_right.xnb</Output>
+      <Time>2013-07-01T00:55:39.9640952-05:00</Time>
+    </Item>
+    <Item>
+      <Source>fonts\UI_font.spritefont</Source>
+      <Name>fonts\UI_font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Matt\Documents\Visual Studio 2012\Projects\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\fonts\UI_font.xnb</Output>
+      <Time>2013-07-29T19:32:37.3170386-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Matt\Documents\Visual Studio 2012\Projects\XNA2DGame\XNA2DGame\XNA2DGameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Matt\Documents\Visual Studio 2012\Projects\XNA2DGame\XNA2DGame\XNA2DGame\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Matt\Documents\Visual Studio 2012\Projects\XNA2DGame\XNA2DGame\XNA2DGameContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Matt\Documents\Visual Studio 2012\Projects\XNA2DGame\XNA2DGame\XNA2DGame\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-10-18T11:34:34.371538-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
